@@ -5,7 +5,7 @@ export default function FooterComponent(props) {
         <div>
             <footer className="footer">
                 <h5 className="text-muted">
-                    Sistema desarrollado por Agustin Vessoni.
+                    Desarrollado por Agustin Vessoni.
                 </h5>
             </footer>
         </div>
